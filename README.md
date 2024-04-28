@@ -1,7 +1,3 @@
-Here’s a clear and concise description for your LuckyDraw smart contract, suitable for including in your repository documentation:
-
----
-
 ### LuckyDraw Smart Contract
 
 This Ethereum smart contract, designed for the Solidity ^0.8.19 compiler, facilitates a simple yet secure Lucky Draw game. Users can participate by sending exactly 2 ether, and a designated manager has exclusive controls to manage the game.
@@ -25,11 +21,3 @@ This Ethereum smart contract, designed for the Solidity ^0.8.19 compiler, facili
 #### Usage:
 
 Deploy the contract, ensure participants send 2 ether to join, and use the manager-exclusive functions to administer the Lucky Draw. This contract is ideal for transparent, verifiable lucky draws where the fairness of the winner selection can be openly audited due to the deterministic nature of the blockchain.
-
-#### Deployment:
-
-To deploy, ensure you have a suitable Ethereum development environment like Truffle or Hardhat, and deploy it to an Ethereum network such as the mainnet, testnet, or a local blockchain instance like Ganache.
-
----
-
-This description provides a comprehensive overview of your smart contract's purpose, features, and usage instructions, making it easier for users and potential auditors to understand its functionality.
